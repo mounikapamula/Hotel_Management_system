@@ -1,0 +1,26 @@
+🏨 Hotel Management System
+A complete web-based hotel booking and management system built using PHP, MySQL, HTML, TailWind CSS, and JavaScript.
+📌 Features
+- Room booking form
+- Customer details management
+- Admin login and dashboard
+- Room types and pricing
+- Booking calendar
+- MySQL database integration
+🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
+- Server: XAMPP (Apache + MySQL)
+🙋‍♀️ Author
+Jyothi Pasam  
+🔗 [GitHub Profile](https://github.com/pasamjyothi)
+🤝 Contribution
+Contributions are welcome. Fork the repo, make your changes, and open a pull request.
+📄 License
+Licensed under the [MIT License](LICENSE).
+💬 Acknowledgments
+- Inspired by real hotel booking use cases
+- Built for academic/web development practice
+
+
