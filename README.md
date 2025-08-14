@@ -33,5 +33,6 @@ This is a Hotel Management System developed using *HTML, CSS, JavaScript, PHP, a
 
    Deployement Link
 
-   user-https://hotelgreenpark.infinityfreeapp.com/index.php
-   admin-https://hotelgreenpark.infinityfreeapp.com/admin/index.php   
+   user-    https://hotelgreenpark.infinityfreeapp.com/index.php
+   admin-   https://hotelgreenpark.infinityfreeapp.com/admin/index.php   
+
